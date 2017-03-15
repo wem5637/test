@@ -1,0 +1,6 @@
+var ok = "this is a sample variable for a sample txt file";
+
+Testing out some basic git commands with this sample file
+Here
+We
+Go
